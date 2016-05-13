@@ -1,0 +1,9 @@
+c:\users\prof.lucchi\documents\visual studio 2015\Projects\AttivitaHTTP\AttivitaHTTP\bin\Debug\AttivitaHTTP.exe.config
+c:\users\prof.lucchi\documents\visual studio 2015\Projects\AttivitaHTTP\AttivitaHTTP\bin\Debug\AttivitaHTTP.exe
+c:\users\prof.lucchi\documents\visual studio 2015\Projects\AttivitaHTTP\AttivitaHTTP\bin\Debug\AttivitaHTTP.pdb
+c:\users\prof.lucchi\documents\visual studio 2015\Projects\AttivitaHTTP\AttivitaHTTP\obj\Debug\AttivitaHTTP.csprojResolveAssemblyReference.cache
+c:\users\prof.lucchi\documents\visual studio 2015\Projects\AttivitaHTTP\AttivitaHTTP\obj\Debug\AttivitaHTTP.exe
+c:\users\prof.lucchi\documents\visual studio 2015\Projects\AttivitaHTTP\AttivitaHTTP\obj\Debug\AttivitaHTTP.pdb
+I:\Projects S&R 4F\AttivitaHTTP\AttivitaHTTP\bin\Debug\AttivitaHTTP.exe.config
+I:\Projects S&R 4F\AttivitaHTTP\AttivitaHTTP\obj\Debug\AttivitaHTTP.exe
+I:\Projects S&R 4F\AttivitaHTTP\AttivitaHTTP\obj\Debug\AttivitaHTTP.pdb
